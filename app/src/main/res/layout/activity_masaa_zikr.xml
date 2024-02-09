@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".masaa_zikr"
+    android:background="#a7d1c9">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa1"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa2"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa3"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa4"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa5"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa6"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa7"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa8"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa9"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa10"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa11"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa12"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa13"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa14"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa15"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa16"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa17"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa18"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa19"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa20"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa21"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa22"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa23"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa24"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa25"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa26"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa27"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa28"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa29"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa30"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/masaa31"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/amiri"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="20sp"/>
+    </LinearLayout>
+</ScrollView>
